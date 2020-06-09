@@ -1,0 +1,1 @@
+You can open the notebook using nbviewer online, you don't need to install it.<br /> Open "https://nbviewer.jupyter.org/".<br /> Then paste the link<br /> "https://github.com/rtharungowda/Handwritten-Bengali-Grapheme-Classification/blob/master/Model/Bengali_charac_recong.ipynb" <br />in the search box.
