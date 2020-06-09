@@ -1,10 +1,10 @@
-# Disaster-tweet-classification
+# Disaster-tweet-classification (NLP)
 
 Twitter has become an important communication channel in times of emergency.<br/>
 The ubiquitousness of smartphones enables people to announce an emergency they’re observing in real-time. <br/>
 Because of this, more agencies are interested in programatically monitoring Twitter (i.e. disaster relief organizations and news agencies).
 
-Predict which Tweets are about real disasters and which ones are not using BERT in Tensorflow Keras <br />
+Predict which Tweets are about real disasters and which ones are not using BERT in Tensorflow Keras NLP(natural language processing) <br />
 
 Link to a complete descrition of BERT (Bidirectional Encoder Representations from Transformers):<br />
 https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270
